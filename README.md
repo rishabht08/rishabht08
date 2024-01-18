@@ -4,20 +4,37 @@
 <h1 align="center">Hi 💫 , I'm Rishab Tiwari </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img src = "https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt = "code" align="right" width="400">
 
-<p align = "left">Proficient problem-solver: Adept at tackling complex challenges with a diverse tech stack:</p>
-<p align = "left" > JavaScript/TypeScript ,Golang , Java , Kotlin </p>
-<p align = "left" > React , Nodejs </p>
-<p align = "left" > Spring Framework </p>
-<p align = "left" >  MySql , Postgresql , Clickhouse  </p>
-<p align = "left" > Docker , Kubernetes </p>
 
+<p align = "center"><b>Proficient problem-solver: </b> Adept at tackling complex challenges with a diverse tech stack:</p>
+
+<img src = "https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt = "code" align="right" width="400">
+
+
+<br>
+<br>
+
+* 📜 **JavaScript/TypeScript**
+*  ☕ **Java/Kotlin**
+*  🐿️ **Golang** 
+*  🌐 **React & Nodejs**
+*  📱 **Android Development**
+*  🧪 **Spring Framework**
+*  💾 **MySql , Postgresql , Clickhouse , MongoDb**
+*  🧰 **Git Version Control**
+*  🤿  **Docker & Kubernetes**
+*  ☁️ **AWS, GCP, Firebase**
+
+<br>
+<br>
+<br>
+
+
+
+## 🚍 About Me:
 <p align = "left" > <b>Fast learner and adaptable:</b>  Quickly masters new technologies to ensure efficient solutions.</p> 
 <p align = "left" > <b>Team player:</b>  Seamlessly integrates within teams, fostering collaboration and collective success.</p>
 <p align = "left" ><b>Committed to quality:</b>  Driven to deliver high-quality work across every project. </p>
-
-
 
 
 ## 🌐 Socials:
