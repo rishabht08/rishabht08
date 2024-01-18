@@ -1,5 +1,23 @@
-# 💫 About Me:
-Proficient problem-solver: Adept at tackling complex challenges with a diverse tech stack:<br><br>JavaScript/TypeScript ,Golang , Java , Kotlin<br>React , Nodejs <br>Spring Framework<br> MySql , Postgresql , Clickhouse <br> Docker , Kubernetes<br><br><b>Fast learner and adaptable:</b>  Quickly masters new technologies to ensure efficient solutions.<br><br> <b>Team player:</b>  Seamlessly integrates within teams, fostering collaboration and collective success.<br><br><b>Committed to quality:</b>  Driven to deliver high-quality work across every project.
+[![MasterHead](https://wallpaperaccess.com/full/4910984.gif)](https://rishavchanda.io)
+
+
+<h1 align="center">Hi 💫 , I'm Rishab Tiwari </h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<img src = "https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt = "code" align="right" width="400">
+
+<p align = "left">Proficient problem-solver: Adept at tackling complex challenges with a diverse tech stack:</p>
+<p align = "left" > JavaScript/TypeScript ,Golang , Java , Kotlin </p>
+<p align = "left" > React , Nodejs </p>
+<p align = "left" > Spring Framework </p>
+<p align = "left" >  MySql , Postgresql , Clickhouse  </p>
+<p align = "left" > Docker , Kubernetes </p>
+
+<p align = "left" > <b>Fast learner and adaptable:</b>  Quickly masters new technologies to ensure efficient solutions.</p> 
+<p align = "left" > <b>Team player:</b>  Seamlessly integrates within teams, fostering collaboration and collective success.</p>
+<p align = "left" ><b>Committed to quality:</b>  Driven to deliver high-quality work across every project. </p>
+
+
 
 
 ## 🌐 Socials:
@@ -10,20 +28,14 @@ Proficient problem-solver: Adept at tackling complex challenges with a diverse t
 
 # 🤖 Experience:
 
-## Senior Software Engineer Middleware (Full-Time)
-
-
-### Jul 2022 - Present (1 yr 7 mos)
-
-**Key Responsibilities:**
+<img src="https://media.licdn.com/dms/image/D4D0BAQH9k1-03Ki8EQ/company-logo_100_100/0/1698391787782/middleware_labs_logo?e=1713398400&v=beta&t=LQTSe5L99rR26dVN3DIURpafQmET-9rmxvb-gTL4q0I" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Middleware (YC W23) · Full-Time<br> Jul 2022 - Present
 
 * List key responsibilities or skills here as bullet points
 
----
 
-**Location:**
 
-* San Francisco Bay Area
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishabht08&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
