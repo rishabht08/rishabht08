@@ -47,7 +47,13 @@
 
 <img src="https://media.licdn.com/dms/image/D4D0BAQH9k1-03Ki8EQ/company-logo_100_100/0/1698391787782/middleware_labs_logo?e=1713398400&v=beta&t=LQTSe5L99rR26dVN3DIURpafQmET-9rmxvb-gTL4q0I" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Middleware (YC W23) · Full-Time<br> Jul 2022 - Present
 
-* List key responsibilities or skills here as bullet points
+* Spearheaded the development of the Log Module within the monitoring system, overseeing both frontend and backend services
+* Engineered solutions for efficient log storage and export functionalities
+* Significantly enhanced API response time by 95% through optimization techniques
+* Architected a scalable infrastructure capable of handling Terabytes of data daily
+* Collaborated cross-functionally with teams across various modules, integrating log correlation with other monitoring attributes such as metrics and traces
+* Developed comprehensive unit tests for handlers to ensure the reliability and functionality of the system
+* Conducted thorough code reviews to ensure adherence to best practices and maintain high code quality standards
 
 
 
