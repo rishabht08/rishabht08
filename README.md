@@ -107,19 +107,12 @@ To realize this functionality, I utilized React for the frontend and Node.js for
    * GitHub Repository: https://github.com/rishabht08/cab-booking-app
 ##
 
-* <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
-To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
+* <b> Restaurants Food Menu QR Code Creator Web App: </b> Developed ScanKar which revolutionizes menu creation for restaurants and cafes, offering a user-friendly platform to customize menus and generate QR codes effortlessly. Users register and access a dashboard where they can craft menus tailored to their establishments, incorporating logos and banners for branding. The app dynamically generates QR codes corresponding to each menu, streamlining the ordering process for customers. With the flexibility to create multiple menus for different locations, ScanKar empowers businesses to adapt to diverse operational needs effectively. Developed during the COVID-19 lockdown when food delivery was paramount, ScanKar emerged as a vital tool for restaurants and cafes seeking to streamline menu creation and delivery operations. Built with React for the frontend and Node.js for the backend, with MongoDB handling data storage, ScanKar underscores my expertise in modern web development technologies. Additionally, I expanded the app's functionality to include QR code generation for hotel room bookings, further enhancing its utility and versatility in the hospitality industry.
 
-   * <b> Technologies Used: </b> React.js, Node.js, PostgreSQL, Firebase Storage <br>
-   * GitHub Repository: https://github.com/rishabht08/AM-Vapp
+   * <b> Technologies Used: </b> React.js, Node.js, mySQL, MongoDb ,  Firebase Storage <br>
+   * GitHub Repository: https://github.com/rishabht08/scankar
 
-##
 
-* <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
-To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
-
-   * <b> Technologies Used: </b> React.js, Node.js, PostgreSQL, Firebase Storage <br>
-   * GitHub Repository: https://github.com/rishabht08/AM-Vapp
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishabht08&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
