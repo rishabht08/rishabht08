@@ -52,8 +52,12 @@
 * Significantly enhanced API response time by 95% through optimization techniques
 * Architected a scalable infrastructure capable of handling Terabytes of data daily
 * Collaborated cross-functionally with teams across various modules, integrating log correlation with other monitoring attributes such as metrics and traces
+* Collaborated with diverse UI components, leveraging libraries such as d3 and recharts, while also crafting custom components
+* Integrated and customized UI elements to meet project requirements and enhance user experience
 * Developed comprehensive unit tests for handlers to ensure the reliability and functionality of the system
 * Conducted thorough code reviews to ensure adherence to best practices and maintain high code quality standards
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) 
 
 
 
