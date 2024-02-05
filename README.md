@@ -94,6 +94,33 @@
 
 #  📱 Projects:
 
+* <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
+To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
+
+   * <b> Technologies Used: </b> React.js, Node.js, PostgreSQL, Firebase Storage <br>
+   * GitHub Repository: https://github.com/rishabht08/AM-Vapp
+##
+
+* <b> Cab Booking Web App: </b> Developed FlashGet, a web application akin to OLA and UBER, facilitating seamless ride-hailing experiences. Users register and access a dynamic map interface showcasing nearby cabs. They input destinations to book cabs, triggering automated animations illustrating the cab's journey. Utilizing Google Maps API for location coordinates and Node.js/Express for backend, FlashGet efficiently manages user data, ride details, and cab assignments stored in a PostgreSQL database. This project underscores my proficiency in jQuery, Node.js, Express, and database management, offering users a streamlined transportation solution with real-time tracking capabilities.
+
+   * <b> Technologies Used: </b> JQuery, Node.js, PostgreSQL, Express , EJS <br>
+   * GitHub Repository: https://github.com/rishabht08/cab-booking-app
+##
+
+* <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
+To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
+
+   * <b> Technologies Used: </b> React.js, Node.js, PostgreSQL, Firebase Storage <br>
+   * GitHub Repository: https://github.com/rishabht08/AM-Vapp
+
+##
+
+* <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
+To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
+
+   * <b> Technologies Used: </b> React.js, Node.js, PostgreSQL, Firebase Storage <br>
+   * GitHub Repository: https://github.com/rishabht08/AM-Vapp
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishabht08&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabht08&theme=nightowl&hide_border=false)<br/>
