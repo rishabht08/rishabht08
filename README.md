@@ -32,7 +32,7 @@
 
 
 ## 🚍 About Me:
-<p align = "left" >I am a fast learner and highly adaptable individual who thrives on mastering new technologies swiftly, ensuring efficient solutions to complex problems. With a strong emphasis on teamwork, I seamlessly integrate within teams, fostering collaboration and contributing to collective success. Committed to delivering excellence, I am driven by a passion for quality work, consistently striving to exceed expectations across every project I undertake. My dedication to learning, collaboration, and quality ensures that I am poised to make meaningful contributions in dynamic environments, where innovation and excellence are paramount.</p> 
+<p align = "left" >I am a dynamic and adaptable software engineer with a passion for mastering new technologies and solving complex problems efficiently. With a strong team-oriented approach, I excel in fostering collaboration and contributing to collective success. My commitment to excellence drives me to consistently exceed expectations and deliver high-quality work. I thrive in dynamic environments where innovation and excellence are valued, and I am poised to make meaningful contributions to any team.</p> 
 
 
 
@@ -45,16 +45,16 @@
 # 🤖 Experience:
 
 <img src="https://media.licdn.com/dms/image/D4D0BAQH9k1-03Ki8EQ/company-logo_100_100/0/1698391787782/middleware_labs_logo?e=1713398400&v=beta&t=LQTSe5L99rR26dVN3DIURpafQmET-9rmxvb-gTL4q0I" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Middleware (YC W23) · Full-Time<br> Jul 2022 - Present
-
-* Spearheaded the development of the Log Module within the monitoring system, overseeing both frontend and backend services
-* Engineered solutions for efficient log storage and export functionalities
-* Significantly enhanced API response time by 95% through optimization techniques
-* Architected a scalable infrastructure capable of handling Terabytes of data daily
-* Collaborated cross-functionally with teams across various modules, integrating log correlation with other monitoring attributes such as metrics and traces
-* Collaborated with diverse UI components, leveraging libraries such as d3 and recharts, while also crafting custom components
-* Integrated and customized UI elements to meet project requirements and enhance user experience
-* Developed comprehensive unit tests for handlers to ensure the reliability and functionality of the system
-* Conducted thorough code reviews to ensure adherence to best practices and maintain high code quality standards
+   
+   * Spearheaded the development of the Log Module within the monitoring system, overseeing both frontend and backend services.
+   * Achieved a reduction in storage costs by 30% through the implementation of efficient log storage mechanisms.
+   * Improved log export speed by 50%, enabling faster data export to Kafka Streams and Storage.
+   * Significantly enhanced API response time by 95% through optimization techniques.
+   * Architected a scalable infrastructure capable of handling Terabytes of data daily.
+   * Ensured system uptime of over 100% despite increasing data loads, maintaining high availability.
+   * Integrated log correlation functionalities with more than 10 numbers of monitoring attributes, enhancing system observability and troubleshooting capabilities.
+   * Utilized d3 and recharts libraries to improve data representation, increasing user engagement with monitoring dashboards.
+   * Developed comprehensive unit tests for handlers to ensure the reliability and functionality of the system.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20)
 
@@ -62,17 +62,16 @@
 
 <img src="https://media.licdn.com/dms/image/C560BAQGpmdMBqpFEoQ/company-logo_200_200/0/1678486009357/acquire_io_logo?e=1715212800&v=beta&t=_i1RLOf-JrKJbgCEVL8hKZXDUqOwsd9CiJh_wHhXK9g" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Acquire Io · Full-Time<br> Sept 2020 - Jun 2022
 
-* Implemented Triggers functionality as a workflow for routing customer messages to Acquire Agents
-* Developed a Complex UI in React for creating charts and node links to visualize routing workflows
-* Migrated Triggers to the advanced "Business Rules" feature as per request
-* Implemented various communication channels for chats/calls including Messages, Social channels (e.g., Whatsapp, Twitter, WeChat), VOIP, and Email
-* Designed routing mechanisms to ensure appropriate agent allocation based on defined Business Rules
-* Optimized SQL queries to expedite routing from Acquire Widget and other channels
-* Collaborated with Chatbots and CRM modules to transfer user and agent information for reliable routing
-* Implemented Sockets for Client-Agent messaging and routing operations
-* Implemented proper caching and optimization techniques to optimize routing APIs
-* Improved routing time significantly from 12 seconds to approximately 1 second (For handling requests for AT&T Agents)
-* Successfully implemented Cisco Finesse integration for United Airlines (client of Acquire), enhancing agent workflow and customer engagement.
+   * Implemented Triggers functionality as a workflow for routing customer messages to Acquire Agents.
+   * Successfully migrated more than 1000 Triggers to Business Rules, simplifying the routing configuration process for agents and administrators.
+   * Integrated 5 communication channels, expanding customer engagement options to acquire's dashboard including Messages, Social channels (e.g., Whatsapp, Twitter, WeChat), VOIP, and Email.
+   * Achieved a 50% increase in interactions across multiple channels.
+   * Implemented dynamic routing algorithms, resulting in a 60% improvement in agent utilization and response efficiency.
+   * Reduced SQL query execution time by 10 seconds for routing operations, improving system responsiveness and performance during peak usage periods.
+   * Implemented Sockets for Client-Agent messaging and routing operations.
+   * Reduced API response time by 4% through the implementation of caching strategies and optimization techniques, improving overall system performance.
+   * Improved routing time significantly from 12 seconds to approximately 1 second (For handling requests for more than 100 AT&T Agents).
+   * Successfully implemented Cisco Finesse integration for United Airlines (client of Acquire), enhancing agent workflow and customer engagement.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
