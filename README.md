@@ -93,6 +93,13 @@
 
 #  📱 Projects:
 
+* <b>High-Performance Log Template Mining Package: </b> Developed a blazing-fast Golang package for mining structured log templates from unstructured log lines. The system tokenizes logs, builds a concurrent tree structure using sync.Map, and generalizes varying tokens into <*> wildcards to identify log patterns. It outperformed Drain3 by up to 40% in speed benchmarks, making it highly suitable for real-time observability pipelines.
+The miner supports in-memory LRU caching using golang-lru and optionally allows Redis-based persistence. MsgPack is used for efficient serialization and storage of large trees. The package is fully thread-safe and supports concurrent log processing through Goroutines.
+
+  * GitHub Repository: https://github.com/rishabht08/log-pattern-miner
+ 
+##
+
 * <b>Video Streaming/Uploading Web App: </b> Developed a web application called AMV-App, designed for uploading and streaming videos. Within the app, users can upload videos and specify content attributes, as well as select thumbnails from video snippets during the upload process. The primary focus of the app is to facilitate the upload of anime-related videos, which are associated with corresponding anime names.
 To realize this functionality, I utilized React for the frontend and Node.js for the backend. User data and video attributes are stored in a PostgreSQL database, while video files and thumbnails are stored in Firebase storage.
 
