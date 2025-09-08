@@ -44,7 +44,7 @@
 
 # 🤖 Experience:
 
-<img src="https://media.licdn.com/dms/image/D4D0BAQH9k1-03Ki8EQ/company-logo_100_100/0/1698391787782/middleware_labs_logo?e=1713398400&v=beta&t=LQTSe5L99rR26dVN3DIURpafQmET-9rmxvb-gTL4q0I" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Middleware (YC W23) · Full-Time<br> Jul 2022 - Present
+<img src="https://media.licdn.com/dms/image/v2/D560BAQFruy-_IkQ4vA/company-logo_200_200/company-logo_200_200/0/1718856572059?e=2147483647&v=beta&t=e4nSbULUbMHNY2URl2u64tcv7l2rG4SxfucGYbARkrU" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Middleware (YC W23) · Full-Time<br> Jul 2022 - Present
    
    * Spearheaded the development of the Log Module within the monitoring system, overseeing both frontend and backend services.
    * Achieved a reduction in storage costs by 30% through the implementation of efficient log storage mechanisms.
@@ -60,7 +60,7 @@
 
 ##
 
-<img src="https://media.licdn.com/dms/image/C560BAQGpmdMBqpFEoQ/company-logo_200_200/0/1678486009357/acquire_io_logo?e=1715212800&v=beta&t=_i1RLOf-JrKJbgCEVL8hKZXDUqOwsd9CiJh_wHhXK9g" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Acquire Io · Full-Time<br> Sept 2020 - Jun 2022
+<img src="https://cdn.prod.website-files.com/637610b6e8be874e65dadb0d/63e4ed470de407926a5c2e87_ACQ_Full_Dark.svg" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Senior Software Engineer</b><br> Acquire Io · Full-Time<br> Sept 2020 - Jun 2022
 
    * Implemented Triggers functionality as a workflow for routing customer messages to Acquire Agents.
    * Successfully migrated more than 1000 Triggers to Business Rules, simplifying the routing configuration process for agents and administrators.
@@ -78,7 +78,7 @@
 
 ##
 
-<img src="https://media.licdn.com/dms/image/C4D0BAQGdmCd6OA4jaw/company-logo_200_200/0/1631333936918?e=1715212800&v=beta&t=MiH3-vV6IggXoYyz8SUdc-4ki8zxWyzmIyCt-UBjiJk" alt="Your Image Alt Text" align = "left"  width="75" height="75">  <b>Full Stack Developer</b><br> Arbunize · Full-Time<br> Jan 2020 - Aug 2020
+<img src="https://arbunize.com/wp-content/uploads/2023/02/arbunize-logo.png" align = "left"  width="75" height="75">  <b>Full Stack Developer</b><br> Arbunize · Full-Time<br> Jan 2020 - Aug 2020
 
 * Developed the official Android App for GetBoarded (a Product of Arbunize) using Android Studio (Java)
 * Overhauled the entire layout of the App
