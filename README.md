@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/4910984.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 💫 , I'm Rishab Tiwari </h1>
+<h2 align="center"> Hi👋, I'm Rishab</h2>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rishab-tiwari-a46a20220/" target="_blank">
