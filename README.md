@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rishab-tiwari-a46a20220/" target="_blank">
-    <img src="https://img.shields.io/badge/rishab-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="https://github.com/rishabht08" target="_blank">
        <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
